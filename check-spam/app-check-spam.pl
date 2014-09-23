@@ -22,6 +22,7 @@ use SPAM::Plugin;
 my $cnf = SPAM::Plugin->new;
 $cnf->open_file("$FindBin::Bin/spam.txt");
 
+print "Contas envolvidas em ataque SPAM\n";
 for my $key ( keys %{ $cnf->spam } ) {
     print "$key => " . $cnf->spam($key) . "\n" if $cnf->spam($key) >= 50;
 }
