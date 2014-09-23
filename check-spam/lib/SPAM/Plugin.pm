@@ -1,4 +1,5 @@
 package SPAM::Plugin;
+
 use strict;
 use warnings;
 
