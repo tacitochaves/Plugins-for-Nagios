@@ -20,7 +20,7 @@ use lib "$FindBin::Bin/lib";
 use SPAM::Plugin;
 
 my $cnf = SPAM::Plugin->new;
-$cnf->open_file("$FindBin::Bin/spam2.txt");
+$cnf->open_queue("/opt/zimbra/postfix/sbin/mailq");
 
 # inicializes the flag
 my $flag;

@@ -16,12 +16,12 @@ sub spam {
 }
 
 # methods
-sub open_file {
-    my ( $self, $name ) = @_;
+sub open_queue {
+    my ( $self, $mailq ) = @_;
 
-    open my $fh, '<', $name or die "[error] file not found => $!\n";
-    my @queue = <$fh>;
-    close $fh;
+    open my $out, "$mailq |" or die "[error] comand not found =>  $!\n";
+    my @queue = <$out>;
+    close $out;
 
     map { $self->{_spam}->{$1}++ if /\d{2}:\d{2}:\d{2}\s+?(\w+\@.*$)/ } @queue;
 
