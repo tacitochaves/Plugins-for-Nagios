@@ -1,0 +1,370 @@
+-Queue ID- --Size-- ----Arrival Time---- -Sender/Recipient-------
+BF9D7FA5976   237212 Mon Sep 22 12:30:39  notifica-ses@saude.al.gov.br
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+BDBA0FA551F    12812 Fri Sep 19 01:20:51  resposta@rinopromo.us
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+B1B09FA5504     1566 Sun Sep 21 01:26:41  prvs=13413717cf=xapjfrml@cagrihipermarket.com
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+BE0DBFA5468     5225 Sun Sep 21 00:26:00  MAILER-DAEMON
+(delivery temporarily suspended: host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-12.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correiosdetinatarios.info
+
+29042FA5556     5161 Sun Sep 21 02:07:01  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-09.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correiosdetinatarios.info
+
+41B1EFA53A8     5672 Fri Sep 19 16:51:00  coes.ebola@saude.gov.br
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+4017DFA5093     5645 Tue Sep 23 15:31:06  MAILER-DAEMON
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+452DCFA5437     5221 Sun Sep 21 02:31:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[72.167.238.29] refused to talk to me: 554 p3plibsmtp01-09.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correiosdetinatarios.info
+
+41343FA5D39    22459 Tue Sep 23 12:15:03  ccihnhenso@hotmail.com
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+4B862FA553A     2458 Fri Sep 19 17:32:11  MAILER-DAEMON
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+DE176FA5523     5192 Sat Sep 20 23:01:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-10.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@cobrancas-net2g.info
+
+D1308FA538E     2345 Fri Sep 19 14:31:23  MAILER-DAEMON
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+D6909FA552E   118547 Thu Sep 18 23:26:39  prof.aires@hotmail.com
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+DD2FEFA5459     5189 Sat Sep 20 23:01:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-14.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@cobrancas-net2g.info
+
+DFBC7FA5528     5191 Sat Sep 20 23:01:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-14.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correioscadastrocliente.info
+
+DEED4FA5525     5254 Sat Sep 20 23:01:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-05.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@compras-online-cobrancas.info
+
+DD45AFA5461     5191 Sat Sep 20 23:01:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-15.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correioscadastrocliente.info
+
+D8AA4FA5DC9    27861 Tue Sep 23 11:05:01  contato-cievs=saude.ma.gov.br@netuserservicos.com.br
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+DB25CFA5564   238284 Fri Sep 19 16:47:37  notifica-ses@saude.al.gov.br
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+D3B99FA5864     3499 Mon Sep 22 20:10:33  cievs@saude.ma.gov.br
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+18464FA54FA     5227 Fri Sep 19 17:53:47  cievs@saude.ma.gov.br
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+1DEEDFA5755     1754 Mon Sep 22 19:36:15  www-data@tonto03.tonto03.g2.internal.cloudapp.netok
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+1E4BBFA5E5A     3552 Tue Sep 23 08:53:12  promotor.regional3@odontosystem.com.br
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+15403FA5516    19892 Fri Sep 19 11:04:50  nhehijm@hotmail.com
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+11D61FA552C    91857 Sun Sep 21 19:57:49  anataliaraimunda@hotmail.com
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+C1272FA5455     5187 Sun Sep 21 02:46:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.203] refused to talk to me: 554 p3plibsmtp03-09.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@cobrancas-net2g.info
+
+CE212FA554B     1764 Tue Sep 23 18:53:06  www-data@borala15.vamosla15.d2.internal.cloudapp.netok
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+CA188FA551D     3790 Sat Sep 20 21:38:47  MAILER-DAEMON
+(Host or domain name not found. Name service error for name=manda1.manda1.j1.internal.cloudapp.net type=MX: Host not found, try again)
+                                         azureuser@manda1.manda1.j1.internal.cloudapp.net
+
+C198AFA553B     2597 Fri Sep 19 07:51:50  o8pif@solugent.com
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+C58D4FA53E3     5251 Sat Sep 20 12:46:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.203] refused to talk to me: 554 p3plibsmtp03-10.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@compras-online-cobrancas.info
+
+C8F52FA54C2     5187 Sat Sep 20 12:46:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.203] refused to talk to me: 554 p3plibsmtp03-06.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correioscadastrocliente.info
+
+C712EFA5538     7188 Fri Sep 19 07:29:18  vendas@precoequalidade.com
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+C2E93FA555A    12714 Sun Sep 21 01:08:06  resposta@rinopromo.us
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+7F648FA5579     4500 Fri Sep 19 22:38:11  decorpis@server.jjtemdetudo.com.br
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+7817FFA5C35    50110 Tue Sep 23 13:17:21  centrocirurgico.hcm@saude.ma.gov.br
+(host vip-us-br-mx.terra.com[208.84.244.133] said: 450 4.7.1 You've exceeded your sending limit to this domain. (in reply to end of DATA command))
+                                         aliuthant@terra.com.br
+                                         edufigueredo@terra.com.br
+                                         jelsonbui@terra.com.br
+                                         ricardo.click@terra.com.br
+                                         teixeiravascular@terra.com.br
+
+7C951FA54FE   242565 Fri Sep 19 17:41:50  cievs@saude.ma.gov.br
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+6F089FA23B8   132204 Tue Sep 23 15:15:55  csl@saude.ma.gov.br
+            (connect to gmail.com.br[173.194.118.86]:25: Connection timed out)
+                                         central.redema@gmail.com.br
+
+6DFB7FA5526     5127 Sat Sep 20 16:47:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-04.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correioscadastrocliente.info
+
+6F69FFA5E10    34883 Tue Sep 23 09:54:25  nhe_mcc@hotmail.com
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+6CC27FA5420     5145 Sun Sep 21 23:12:00  MAILER-DAEMON
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+6C204FA53E4     4422 Mon Sep 22 05:41:00  MAILER-DAEMON
+    (connect to mail.promocao08.com.br[187.84.205.138]:25: Connection refused)
+                                         relacionamento@promocao08.com.br
+
+6AEEEFA58EF    10633 Mon Sep 22 14:02:03  MAILER-DAEMON
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+38412FA5536   368270 Fri Sep 19 17:20:19  pedro.albuquerque@saude.ma.gov.br
+               (connect to abbvie.com.br[130.36.63.94]:25: Connection refused)
+                                         licitacoes@abbvie.com.br
+
+31240FA53DA     5253 Sat Sep 20 15:06:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.203] refused to talk to me: 554 p3plibsmtp03-13.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@compras-online-cobrancas.info
+
+3F056FA53AF     5162 Sat Sep 20 21:27:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-12.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correiosdetinatarios.info
+
+34C9AFA5614    43493 Mon Sep 22 10:31:55  brunalima.enf@hotmail.com
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+3A408FA5D36     2375 Tue Sep 23 12:13:29  ccihnhenso@hotmail.com
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+36369FA552F    23638 Fri Sep 19 15:02:24  jakeline.rios@gmail.com
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+938F3FA5907    11877 Tue Sep 23 03:58:36  contato-cievs=saude.ma.gov.br@gruponetuser.com.br
+(host alt1.gmail-smtp-in.l.google.com[173.194.66.26] said: 421-4.7.0 [201.18.32.29      15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail originating from your IP address. To protect our 421-4.7.0 users from spam, mail sent from your IP address has been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0 http://www.google.com/mail/help/bulk_mail.html to review our Bulk 421 4.7.0 Email Senders Guidelines. mc4si17456772wjb.75 - gsmtp (in reply to end of DATA command))
+                                         jakeline.rios@gmail.com
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+914B3FA554D     3827 Fri Sep 19 11:45:32  rp@auto-segguro.com.br
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+99843FA557A    93058 Fri Sep 19 14:46:11  centrocirurgico.hcm@saude.ma.gov.br
+            (connect to gmail.com.br[173.194.118.86]:25: Connection timed out)
+                                         beltraonoleto@gmail.com.br
+
+913AEFA5561    93058 Fri Sep 19 14:46:11  centrocirurgico.hcm@saude.ma.gov.br
+(host vip-us-br-mx.terra.com[208.84.244.133] said: 450 4.7.1 You've exceeded your sending limit to this domain. (in reply to end of DATA command))
+                                         aliuthant@terra.com.br
+                                         edufigueredo@terra.com.br
+                                         jelsonbui@terra.com.br
+                                         ricardo.click@terra.com.br
+                                         teixeiravascular@terra.com.br
+
+90A4AFA5586    11837 Sun Sep 21 09:16:40  janaina@minder-dv2.com.br
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+99075FA556B     5058 Fri Sep 19 16:50:17  coes.ebola@saude.gov.br
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+9BDA5FA56D7    12021 Mon Sep 22 14:16:52  jakeline.rios@gmail.com
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+9AC60FA5D52     2338 Tue Sep 23 09:40:15  MAILER-DAEMON
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5F852FA5524   118546 Thu Sep 18 23:26:15  prof.aires@hotmail.com
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5D051FA553C     5596 Fri Sep 19 07:39:01  maria.silva@unilasalle.edu.br
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5373BFA5BB1     1383 Tue Sep 23 11:18:46  SantanderCartao@contato.com
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+533D7FA5594    12214 Tue Sep 23 22:48:38  contato-cievs=saude.ma.gov.br@guiaemailmkt.com.br
+(host alt1.gmail-smtp-in.l.google.com[173.194.66.26] said: 421-4.7.0 [201.18.32.29      15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail originating from your IP address. To protect our 421-4.7.0 users from spam, mail sent from your IP address has been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0 http://www.google.com/mail/help/bulk_mail.html to review our Bulk 421 4.7.0 Email Senders Guidelines. fk8si5022496wib.66 - gsmtp (in reply to end of DATA command))
+                                         jakeline.rios@gmail.com
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5FFB7FA587E     4241 Tue Sep 23 02:47:31  xylopxz@wsnelson.com
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+560D6FA5944   143052 Tue Sep 23 01:35:21  azureuser@opop02.cloudapp.net
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5BE8EFA54CA     5160 Sun Sep 21 03:17:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.37] refused to talk to me: 554 p3plibsmtp02-13.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correiosdetinatarios.info
+
+55D8EFA541C     5192 Mon Sep 22 10:11:28  www-data@Ubuntu12-04.tecla.alog.com.brok
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5C2C4FA5311     2618 Sun Sep 21 20:31:07  anataliaraimunda@hotmail.com
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+5645CFA5D48     3266 Tue Sep 23 07:15:30  wanderlucio.leite@crcpr.org.br
+(host alt1.gmail-smtp-in.l.google.com[173.194.66.26] said: 421-4.7.0 [201.18.32.29      15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail originating from your IP address. To protect our 421-4.7.0 users from spam, mail sent from your IP address has been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0 http://www.google.com/mail/help/bulk_mail.html to review our Bulk 421 4.7.0 Email Senders Guidelines. cd17si5117580wib.14 - gsmtp (in reply to end of DATA command))
+                                         zhaofeng.management@gmail.com
+
+0B5CCFA5870    49873 Mon Sep 22 13:56:07  centrocirurgico.hcm@saude.ma.gov.br
+            (connect to gmail.com.br[173.194.118.85]:25: Connection timed out)
+                                         beltraonoleto@gmail.com.br
+
+0B351FA54FF    98019 Sat Sep 20 21:38:42  azureuser@manda1.manda1.j1.internal.cloudapp.net
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+0140FFA5807    49873 Mon Sep 22 13:56:07  centrocirurgico.hcm@saude.ma.gov.br
+(host vip-us-br-mx.terra.com[208.84.244.133] said: 450 4.7.1 You've exceeded your sending limit to this domain. (in reply to end of DATA command))
+                                         aliuthant@terra.com.br
+                                         edufigueredo@terra.com.br
+                                         jelsonbui@terra.com.br
+                                         ricardo.click@terra.com.br
+                                         teixeiravascular@terra.com.br
+
+0E85FFA5833     5751 Mon Sep 22 21:22:34  mgs7068@smartexpress.net.br
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+E7EFDFA5BAB     3695 Tue Sep 23 06:44:45  filialpoa@jbmlaw.com.br
+(host alt1.gmail-smtp-in.l.google.com[173.194.66.27] said: 421-4.7.0 [201.18.32.29      15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail originating from your IP address. To protect our 421-4.7.0 users from spam, mail sent from your IP address has been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0 http://www.google.com/mail/help/bulk_mail.html to review our Bulk 421 4.7.0 Email Senders Guidelines. q3si17530653wjo.64 - gsmtp (in reply to end of DATA command))
+                                         zhaofeng.management@gmail.com
+
+E82BEFA5C97    50110 Tue Sep 23 13:17:21  centrocirurgico.hcm@saude.ma.gov.br
+            (connect to gmail.com.br[173.194.118.86]:25: Connection timed out)
+                                         beltraonoleto@gmail.com.br
+
+E3301FA5485     4286 Sun Sep 21 23:42:00  MAILER-DAEMON
+         (connect to mail.dtcduat.com[63.67.146.195]:25: Connection timed out)
+                                         fqjmbwvc@dtcduat.com
+
+E017FFA58C1    17512 Tue Sep 23 04:10:34  resposta@rinopromo.us
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+F0F9BFA5981     7363 Tue Sep 23 00:09:55  vendas@agoracompra.net
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+AFFA2FA5566   368125 Fri Sep 19 17:13:23  pedro.albuquerque@saude.ma.gov.br
+               (connect to abbvie.com.br[130.36.63.94]:25: Connection refused)
+                                         licitacoes@abbvie.com.br
+
+AC324FA54B8    14124 Tue Sep 23 16:27:51  andrea@oimparcial.com.br
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+A54FCFA583C     1764 Mon Sep 22 20:03:00  www-data@burro16.burro16.m2.internal.cloudapp.netok
+(delivery temporarily suspended: connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+A0B50FA52FF     5188 Sat Sep 20 16:16:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[68.178.213.203] refused to talk to me: 554 p3plibsmtp03-03.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@cobrancas-net2g.info
+
+A4B3BFA52BC     4425 Sun Sep 21 23:31:00  MAILER-DAEMON
+                  (connect to otmail.com[64.4.6.100]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+A4AF2FA548E     5187 Sat Sep 20 13:41:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[72.167.238.29] refused to talk to me: 554 p3plibsmtp01-04.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correioscadastrocliente.info
+
+AF01BFA5371     5187 Sun Sep 21 03:21:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[72.167.238.29] refused to talk to me: 554 p3plibsmtp01-14.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correioscadastrocliente.info
+
+A296CFA590C    11933 Mon Sep 22 22:15:01  contato-cievs=saude.ma.gov.br@netuserservicos.com.br
+(delivery temporarily suspended: connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+8A7B3FA5571     3469 Sun Sep 21 15:21:00  MAILER-DAEMON
+             (connect to contato.com[208.73.211.195]:25: Connection timed out)
+                                         SantanderCartao@contato.com
+
+86248FA5ABE     2992 Tue Sep 23 06:32:58  brsantos@jbmlaw.com.br
+(host alt1.gmail-smtp-in.l.google.com[173.194.66.26] said: 421-4.7.0 [201.18.32.29      15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail originating from your IP address. To protect our 421-4.7.0 users from spam, mail sent from your IP address has been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0 http://www.google.com/mail/help/bulk_mail.html to review our Bulk 421 4.7.0 Email Senders Guidelines. qt9si17476701wjc.93 - gsmtp (in reply to end of DATA command))
+                                         zhaofeng.management@gmail.com
+
+86806FA55DC     3558 Mon Sep 22 09:58:04  nossostalentos.ce@odontosystem.com.br
+                 (connect to otmail.com[65.55.39.10]:25: Connection timed out)
+                                         andreacconceicao@otmail.com
+
+835D7FA51F9     5257 Sat Sep 20 22:06:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[72.167.238.29] refused to talk to me: 554 p3plibsmtp01-04.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@compras-online-cobrancas.info
+
+86D8DFA535D     5224 Sat Sep 20 23:16:00  MAILER-DAEMON
+(host mailstore1.secureserver.net[72.167.238.29] refused to talk to me: 554 p3plibsmtp01-11.prod.phx3.secureserver.net bizsmtp IB103. Connection refused. 201.18.32.29 has a poor reputation on Cloudmark Sender Intelligence (CSI). Please visit http://csi.cloudmark.com/reset-request/?ip=201.18.32.29 to request a delisting.)
+                                         www-data@correiosdetinatarios.info
+
+-- 3083 Kbytes in 88 Requests.

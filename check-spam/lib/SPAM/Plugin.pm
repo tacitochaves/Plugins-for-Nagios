@@ -28,4 +28,14 @@ sub open_file {
     return $self->{_spam};
 }
 
+sub return_code {
+    my ( $self, $input ) = @_;
+
+    return 2 if defined $input;
+
+    return 0;
+  
+    $self;
+}
+
 1;
