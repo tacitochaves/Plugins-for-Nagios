@@ -58,11 +58,11 @@ if ( $df ne "is mounted" ) {
     # shows the backup if it exists and your return code
     if (defined ($match)) {
         print "OK - Backup Existe - $match\n" if $yesterday;
-        $remote->ok;
+        $remote->ok($match);
     }
     else {
         print "CRITICAL - Backup não encontrado.\n";
-        $remote->critical;
+        $remote->critical($match);
     }
 }
 
