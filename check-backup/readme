@@ -1,0 +1,3 @@
+Como a montagem do diretório deve ser feito com o usuário 'nagios', deve ser inserido a seguinte linha no arquivo: /etc/sudoers.
+
+nagios ALL=NOPASSWD: /sbin/mount, /sbin/umount, /bin/mount, /bin/umount, /usr/local/nagios/libexec/check-backup/app-check-backup.pl
