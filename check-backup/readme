@@ -1,4 +1,4 @@
-<h2>Plugin checks for Nagios backup!</h2>
+Plugin checks for Nagios backup!
 
 Como a montagem do diretório deve ser feita com o usuário 'nagios', deve ser inserido a seguinte linha no arquivo: /etc/sudoers.
 
