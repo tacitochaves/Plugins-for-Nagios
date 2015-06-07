@@ -39,8 +39,6 @@ GetOptions (
 );
 
 my $host      = $OPTION{'host'}           if defined $OPTION{'host'};
-my $warning   = $OPTION{'warning'}        if defined $OPTION{'warning'};
-my $critical  = $OPTION{'critical'}       if defined $OPTION{'critical'};
 my $version   = $OPTION{'snmp-version'}   if defined $OPTION{'snmp-version'};
 my $community = $OPTION{'snmp-community'} if defined $OPTION{'snmp-community'};
 my $oid       = $OPTION{'oid'}            if defined $OPTION{'oid'};
